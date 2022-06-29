@@ -1,0 +1,57 @@
+\AtDataInput[inproceedings]{%
+ \xifinlistcs{\thefield{entrykey}}{entrylist:\therefsection}{}{%
+  \listcsxadd{entrylist:\therefsection}{\thefield{entrykey}}%
+  \csnumgdef{inproceedingsentrycount:\therefsection}{%
+      \csuse{inproceedingsentrycount:\therefsection}+1}}}
+
+\DeclareFieldFormat[inproceedings]{labelnumber}{\mkbibinproceedingsdesc{#1}}
+
+\newrobustcmd*{\mkbibinproceedingsdesc}[1]{%
+   \number\numexpr\csuse{inproceedingsentrycount:\therefsection}+1-#1\relax}
+
+\AtDataInput[article]{%
+ \xifinlistcs{\thefield{entrykey}}{entrylist:\therefsection}{}{%
+  \listcsxadd{entrylist:\therefsection}{\thefield{entrykey}}%
+  \csnumgdef{articleentrycount:\therefsection}{%
+      \csuse{articleentrycount:\therefsection}+1}}}
+
+\DeclareFieldFormat[article]{labelnumber}{\mkbibarticledesc{#1}}
+
+\newrobustcmd*{\mkbibarticledesc}[1]{%
+   \number\numexpr\csuse{articleentrycount:\therefsection}+1-#1\relax}
+   
+
+\AtDataInput[misc]{%
+ \xifinlistcs{\thefield{entrykey}}{entrylist:\therefsection}{}{%
+  \listcsxadd{entrylist:\therefsection}{\thefield{entrykey}}%
+  \csnumgdef{miscentrycount:\therefsection}{%
+      \csuse{miscentrycount:\therefsection}+1}}}
+
+\DeclareFieldFormat[misc]{labelnumber}{\mkbibmiscdesc{#1}}
+
+\newrobustcmd*{\mkbibmiscdesc}[1]{%
+   \number\numexpr\csuse{miscentrycount:\therefsection}+1-#1\relax}
+   
+
+   \AtDataInput[patent]{%
+ \xifinlistcs{\thefield{entrykey}}{entrylist:\therefsection}{}{%
+  \listcsxadd{entrylist:\therefsection}{\thefield{entrykey}}%
+  \csnumgdef{patententrycount:\therefsection}{%
+      \csuse{patententrycount:\therefsection}+1}}}
+
+\DeclareFieldFormat[patent]{labelnumber}{\mkbibpatentdesc{#1}}
+
+\newrobustcmd*{\mkbibpatentdesc}[1]{%
+   \number\numexpr\csuse{patententrycount:\therefsection}+1-#1\relax}
+   
+   
+      \AtDataInput[unpublished]{%
+ \xifinlistcs{\thefield{entrykey}}{entrylist:\therefsection}{}{%
+  \listcsxadd{entrylist:\therefsection}{\thefield{entrykey}}%
+  \csnumgdef{unpublishedentrycount:\therefsection}{%
+      \csuse{unpublishedentrycount:\therefsection}+1}}}
+
+\DeclareFieldFormat[unpublished]{labelnumber}{\mkbibunpublisheddesc{#1}}
+
+\newrobustcmd*{\mkbibunpublisheddesc}[1]{%
+   \number\numexpr\csuse{unpublishedentrycount:\therefsection}+1-#1\relax}
