@@ -5,7 +5,7 @@
     <link>https://filippopecci.github.io/</link>
       <atom:link href="https://filippopecci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://filippopecci.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://filippopecci.github.io/talk/example-talk/</guid>
+      <title>Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization</title>
+      <link>https://filippopecci.github.io/talk/optimal-design-for-control-of-chlorine-booster-systems-in-water-networks-via-convex-optimization/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/talk/optimal-design-for-control-of-chlorine-booster-systems-in-water-networks-via-convex-optimization/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
