@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Filippo Pecci</title>
+    <link>https://filippopecci.github.io/publication-type/0/</link>
+      <atom:link href="https://filippopecci.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://filippopecci.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Closure to ``Regularization of an Inverse Problem for Parameter Estimation in Water Distribution Systems\&#34; by Alexander Waldron, Filippo Pecci, and Ivan Stoianov</title>
+      <link>https://filippopecci.github.io/publication/waldron-2021-disc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/waldron-2021-disc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal design for control of water supply networks by mixed integer programming</title>
+      <link>https://filippopecci.github.io/publication/pecci-2018-optimal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2018-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical stratification of Pareto sets</title>
+      <link>https://filippopecci.github.io/publication/lovison-2014-hierarchical/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/lovison-2014-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  29 JUN 2022 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  30 JUN 2022 11:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/pecci/AcademicWebsite/static/uploads/resume.tex
-(c:/Users/pecci/AcademicWebsite/static/uploads/resume.tex
+**c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex
+(c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-04-06> (c:/texlive/2020/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter document class
@@ -401,7 +401,7 @@ File: biblatex.cfg
 \@input{reversebibnum.aux}
 \openout2 = `reversebibnum.aux'.
 
-(c:/Users/pecci/AcademicWebsite/static/uploads/reversebibnum.tex) (c:/texlive/2020/texmf-dist/tex/latex/moderncv/moderncvstylebanking.sty
+(c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/reversebibnum.tex) (c:/texlive/2020/texmf-dist/tex/latex/moderncv/moderncvstylebanking.sty
 Package: moderncvstylebanking 2015/07/28 v2.0.0 modern curriculum vitae and letter style scheme: banking
  (c:/texlive/2020/texmf-dist/tex/latex/tex-gyre/tgpagella.sty
 Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
@@ -554,7 +554,7 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 34.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 34.
 \@quotelevel=\count388
 \@quotereset=\count389
- (c:/Users/pecci/AcademicWebsite/static/uploads/resume.aux)
+ (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -620,7 +620,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'resume.bbl' found.
- (c:/Users/pecci/AcademicWebsite/static/uploads/resume.bbl)
+ (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.bbl)
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
 
@@ -672,7 +672,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
- (c:/Users/pecci/AcademicWebsite/static/uploads/resume.out) (c:/Users/pecci/AcademicWebsite/static/uploads/resume.out)
+ (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.out) (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
@@ -802,7 +802,7 @@ Underfull \hbox (badness 10000) detected at line 150
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
 [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
- (c:/Users/pecci/AcademicWebsite/static/uploads/resume.aux)
+ (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `resume.out' has not changed.
@@ -813,14 +813,14 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  20950 strings out of 480607
- 363211 string characters out of 5907502
+ 363500 string characters out of 5907502
  1018646 words of memory out of 5000000
  36437 multiletter control sequences out of 15000+600000
  606692 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,49p,818b,1348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,12n,49p,835b,1348s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on c:/Users/pecci/AcademicWebsite/static/uploads/resume.pdf (3 pages, 259427 bytes).
+Output written on c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf (3 pages, 259427 bytes).
 PDF statistics:
  177 PDF objects out of 1000 (max. 8388607)
  161 compressed objects within 2 object streams

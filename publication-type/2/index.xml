@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Filippo Pecci</title>
+    <link>https://filippopecci.github.io/publication-type/2/</link>
+      <atom:link href="https://filippopecci.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://filippopecci.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Convex Heuristics for Optimal Placement and Operation of Valves and Chlorine Boosters in Water Networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2022-cvx/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2022-cvx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-objective design-for-control of water distribution networks with global bounds</title>
+      <link>https://filippopecci.github.io/publication/ulusoy-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/ulusoy-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior Assumptions for Leak Localisation in Water Distribution Networks with Uncertainties</title>
+      <link>https://filippopecci.github.io/publication/blocher-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/blocher-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relax-tighten-round algorithm for optimal placement and control of valves and chlorine boosters in water networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An MINLP-Based Approach for the Design-for-Control of Resilient Water Supply Systems</title>
+      <link>https://filippopecci.github.io/publication/ulusoy-20204579/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/ulusoy-20204579/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localizing Leakage Hotspots in Water Distribution Networks via the Regularization of an Inverse Problem</title>
+      <link>https://filippopecci.github.io/publication/blocher-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/blocher-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal control of water distribution networks without storage</title>
+      <link>https://filippopecci.github.io/publication/nerantzis-2020345/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/nerantzis-2020345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization of an Inverse Problem for Parameter Estimation in Water Distribution Networks</title>
+      <link>https://filippopecci.github.io/publication/waldron-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/waldron-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Convex Optimization for Detecting and Locating Blockages in Water Distribution Networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global optimality bounds for the placement of control valves in water supply networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2019457/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2019457/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Reduction and Outer Approximation for Optimizing the Placement of Control Valves in Complex Water Networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penalty and relaxation methods for the optimal placement and operation of control valves in water supply networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2017201/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2017201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic head loss approximations for optimisation problems in water supply networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2017493/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2017493/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Pareto set generation for multiobjective co-design problems in water distribution networks: a continuous relaxation approach</title>
+      <link>https://filippopecci.github.io/publication/pecci-2017857/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2017857/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

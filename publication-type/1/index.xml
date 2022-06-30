@@ -5,7 +5,7 @@
     <link>https://filippopecci.github.io/publication-type/1/</link>
       <atom:link href="https://filippopecci.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization</title>
+      <link>https://filippopecci.github.io/publication/pecci-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising valve placement and pressure control for multi-feed sectors in water supply networks using outer approximation</title>
+      <link>https://filippopecci.github.io/publication/pecci-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outer approximation methods for the solution of co-design optimisation problems in water distribution networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-20175373/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-20175373/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical programming methods for pressure management in water distribution systems</title>
+      <link>https://filippopecci.github.io/publication/pecci-2015937/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2015937/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
-      <link>https://filippopecci.github.io/publication/example/</link>
+      <link>https://filippopecci.github.io/publication/example-of-a-publication/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://filippopecci.github.io/publication/example/</guid>
+      <guid>https://filippopecci.github.io/publication/example-of-a-publication/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
