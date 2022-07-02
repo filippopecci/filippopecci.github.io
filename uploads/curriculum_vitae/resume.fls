@@ -209,8 +209,6 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fonta
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qplr.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
@@ -231,6 +229,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 INPUT c:/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
