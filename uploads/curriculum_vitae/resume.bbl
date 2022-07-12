@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -44,7 +44,7 @@
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -1024,7 +1024,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -1049,7 +1049,7 @@
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -2029,7 +2029,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -2054,7 +2054,7 @@
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -3034,7 +3034,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -3059,7 +3059,7 @@
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -4039,7 +4039,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -4064,7 +4064,7 @@
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -5044,7 +5044,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -5069,7 +5069,7 @@
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -6049,7 +6049,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global}
-    \entry{Pecci2022b}{unpublished}{}
+    \entry{Pecci2022b}{misc}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -6073,7 +6073,7 @@
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In preparation}
+      \field{addendum}{Preprint arXiv:2207.04897}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
