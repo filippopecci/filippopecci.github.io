@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  12 JUL 2022 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  29 JUL 2022 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -799,12 +799,12 @@ Underfull \hbox (badness 10000) detected at line 150
 \T1/qpl/m/n/8 .
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: F230D379B601CAD640DCE572BE04AED2;1673.
 Package logreq Info: Writing requests to 'resume.run.xml'.
@@ -812,18 +812,18 @@ Package logreq Info: Writing requests to 'resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20945 strings out of 480607
- 363317 string characters out of 5907502
- 1018598 words of memory out of 5000000
- 36432 multiletter control sequences out of 15000+600000
- 606376 words of font info for 107 fonts, out of 8000000 for 9000
+ 20952 strings out of 480607
+ 363458 string characters out of 5907502
+ 1018612 words of memory out of 5000000
+ 36434 multiletter control sequences out of 15000+600000
+ 606656 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,49p,835b,1348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,49p,835b,1340s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf (3 pages, 259522 bytes).
+Output written on c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf (3 pages, 260770 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 500000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
  21081 words of extra memory for PDF output out of 24883 (max. 10000000)
 

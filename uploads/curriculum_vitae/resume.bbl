@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -44,7 +44,7 @@
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -123,6 +123,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -205,47 +299,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{J}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -358,45 +411,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{J}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -692,9 +706,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -706,7 +717,7 @@
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -1024,7 +1035,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -1049,7 +1060,7 @@
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -1128,6 +1139,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -1210,47 +1315,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{C}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -1363,45 +1427,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{C}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -1697,9 +1722,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -1711,7 +1733,7 @@
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -2029,7 +2051,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -2054,7 +2076,7 @@
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -2133,6 +2155,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -2215,47 +2331,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{S}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -2368,45 +2443,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{S}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -2702,9 +2738,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -2716,7 +2749,7 @@
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -3034,7 +3067,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -3059,7 +3092,7 @@
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -3138,6 +3171,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -3220,47 +3347,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{B}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -3373,45 +3459,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{B}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -3707,9 +3754,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -3721,7 +3765,7 @@
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -4039,7 +4083,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -4064,7 +4108,7 @@
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -4143,6 +4187,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{R}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{R}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -4225,47 +4363,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{R}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -4378,45 +4475,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{R}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -4712,9 +4770,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -4726,7 +4781,7 @@
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -5044,7 +5099,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -5069,7 +5124,7 @@
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -5148,6 +5203,100 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -5230,47 +5379,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{A}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -5383,45 +5491,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelprefix}{A}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -5717,9 +5786,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -5731,7 +5797,7 @@
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
@@ -6049,7 +6115,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global}
-    \entry{Pecci2022b}{misc}{}
+    \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -6073,7 +6139,7 @@
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2207.04897}
+      \field{addendum}{Preprint arXiv:2207.04897, submitted to Computers and Operations Research}
       \field{title}{Bounds and Convex Heuristics for Multiobjective Sensor Placement in Water Networks}
       \field{year}{2022}
       \true{nocite}
@@ -6150,6 +6216,98 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the European Control Conference 2022}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.watres.2022.118914
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \endverb
+    \endentry
+    \entry{waldron2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accepted for publication in Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2022}
       \true{nocite}
     \endentry
@@ -6230,46 +6388,6 @@
       \verb{doi}
       \verb 10.1016/j.ejor.2021.03.004
       \endverb
-    \endentry
-    \entry{Ulusoy2022}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=ac40e4d7aa8f09a741779cbab08d3ee9}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           suffix={A.-J\bibnamedelima and.Herman},
-           suffixi={A\bibinithyphendelim J\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e3c969656ad587078afd93bc2b45984a}{%
-           family={Keedwell},
-           familyi={K\bibinitperiod},
-           given={E.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{fullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{bibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authorbibnamehash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \strng{authornamehash}{21188a41242c75d5cdc29a1058684a8d}
-      \strng{authorfullhash}{5ca2ae256ef9c998ad1e90b0ca16f9f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
-      \field{year}{2021}
-      \true{nocite}
     \endentry
     \entry{Ulusoy2021}{article}{}
       \name{author}{3}{}{%
@@ -6379,44 +6497,6 @@
       \field{labeltitlesource}{title}
       \field{addendum}{Filed. GB application number 2112111.6}
       \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
-      \field{year}{2021}
-      \true{nocite}
-    \endentry
-    \entry{waldron2021}{unpublished}{}
-      \name{author}{4}{}{%
-        {{hash=6c35be92dabb1a325ec44239261c8671}{%
-           family={Waldron},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
-           family={Ulusoy},
-           familyi={U\bibinitperiod},
-           given={A.-J.},
-           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
-           family={Pecci},
-           familyi={P\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
-           family={Stoianov},
-           familyi={S\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
-      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
-      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to Water Research}
-      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
       \field{year}{2021}
       \true{nocite}
     \endentry
@@ -6705,9 +6785,6 @@
            given={F.},
            giveni={F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Imperial College London}%
-      }
       \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
       \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
@@ -6718,7 +6795,7 @@
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{PhD Thesis}
+      \field{addendum}{PhD Thesis. Imperial College London}
       \field{title}{Optimal design for control of water supply networks by mixed integer programming}
       \field{year}{2018}
       \true{nocite}
