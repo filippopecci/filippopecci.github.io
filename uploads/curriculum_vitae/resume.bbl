@@ -91,7 +91,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -121,10 +121,15 @@
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -167,21 +172,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -215,10 +215,16 @@
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -1107,7 +1113,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -1137,10 +1143,15 @@
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -1183,21 +1194,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -1231,10 +1237,16 @@
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -2123,7 +2135,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -2153,10 +2165,15 @@
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -2199,21 +2216,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -2247,10 +2259,16 @@
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -3139,7 +3157,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -3169,10 +3187,15 @@
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -3215,21 +3238,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -3263,10 +3281,16 @@
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -4155,7 +4179,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -4185,10 +4209,15 @@
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -4231,21 +4260,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -4279,10 +4303,16 @@
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -5171,7 +5201,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -5201,10 +5231,15 @@
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -5247,21 +5282,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -5295,10 +5325,16 @@
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
@@ -6185,7 +6221,7 @@
       \verb 10.1061/(ASCE)WR.1943-5452.0001509
       \endverb
     \endentry
-    \entry{pecci2022}{inproceedings}{}
+    \entry{pecciECC22}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
            family={Pecci},
@@ -6214,10 +6250,15 @@
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the European Control Conference 2022}
+      \field{booktitle}{2022 European Control Conference (ECC)}
       \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
     \endentry
     \entry{Ulusoy2022}{article}{}
       \name{author}{5}{}{%
@@ -6259,21 +6300,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Water Research}
       \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
       \field{pages}{118914}
       \range{pages}{1}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.watres.2022.118914
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0043135422008612
+      \verb 10.1016/j.watres.2022.118914
       \endverb
     \endentry
-    \entry{waldron2022}{unpublished}{}
+    \entry{waldron2022}{article}{}
       \name{author}{4}{}{%
         {{hash=6c35be92dabb1a325ec44239261c8671}{%
            family={Waldron},
@@ -6306,10 +6342,16 @@
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Accepted for publication in Water Research}
+      \field{journaltitle}{Water Research}
       \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
       \field{year}{2022}
       \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
     \endentry
     \entry{Blocher2021}{article}{}
       \name{author}{3}{}{%
