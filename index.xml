@@ -21,6 +21,29 @@
     </item>
     
     <item>
+      <title>A global optimization framework for resilient water distribution networks</title>
+      <link>https://filippopecci.github.io/talk/a-global-optimization-framework-for-resilient-water-distribution-networks/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/talk/a-global-optimization-framework-for-resilient-water-distribution-networks/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks</title>
       <link>https://filippopecci.github.io/publication/ulusoy-2022/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
