@@ -5,12 +5,20 @@
     <link>https://filippopecci.github.io/publication/</link>
       <atom:link href="https://filippopecci.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://filippopecci.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm</title>
+      <link>https://filippopecci.github.io/publication/jenks-2022/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jenks-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bounds and Convex Heuristics for Bi-Objective Sensor Placement in Water Networks</title>
