@@ -19,39 +19,45 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -1075,39 +1081,45 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -2131,39 +2143,45 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{S}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -3187,39 +3205,45 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -4243,39 +4267,45 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{R}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -5299,39 +5329,45 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{A}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
@@ -6355,38 +6391,44 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global}
-    \entry{Jenks2022}{unpublished}{}
+    \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
-        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+        {{hash=2193958d1965aa0ce7f117fae3d452fc}{%
            family={Jenks},
            familyi={J\bibinitperiod},
-           given={B.},
+           given={Bradley},
            giveni={B\bibinitperiod}}}%
-        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+        {{hash=994af5e0e28291a5bf96925b95f45976}{%
            family={Pecci},
            familyi={P\bibinitperiod},
-           given={F.},
+           given={Filippo},
            giveni={F\bibinitperiod}}}%
-        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+        {{hash=cee8d0455c0966ff842ff4e3a234a909}{%
            family={Stoianov},
            familyi={S\bibinitperiod},
-           given={I.},
+           given={Ivan},
            giveni={I\bibinitperiod}}}%
       }
-      \strng{namehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{fullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{bibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorbibnamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authornamehash}{6b5f56c8b6f976edee33d1b3bba6a75c}
-      \strng{authorfullhash}{6b5f56c8b6f976edee33d1b3bba6a75c}
+      \strng{namehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{fullhash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{bibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorbibnamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authornamehash}{e46ef20abdcfebe6e40421f07311a6c6}
+      \strng{authorfullhash}{e46ef20abdcfebe6e40421f07311a6c6}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Preprint arXiv:2210.06388, submitted to Water Research}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
       \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
     \endentry
     \entry{Pecci2022b}{unpublished}{}
       \name{author}{2}{}{%
