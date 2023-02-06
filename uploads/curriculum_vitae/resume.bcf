@@ -2230,15 +2230,6 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="0"
-                name="ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix="S"
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="0"
                 name="ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global"
                 type="entry"
                 sortingtemplatename="ydnt"
