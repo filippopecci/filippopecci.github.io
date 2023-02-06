@@ -5,12 +5,20 @@
     <link>https://filippopecci.github.io/publication-type/2/</link>
       <atom:link href="https://filippopecci.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 10:18:29 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://filippopecci.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Bounds and convex heuristics for bi-objective optimal experiment design in water networks</title>
+      <link>https://filippopecci.github.io/publication/pecci-2023-sensor/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2023-sensor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm</title>
