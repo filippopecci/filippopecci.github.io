@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  6 FEB 2023 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.4.28)  10 FEB 2023 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,7 +811,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  49i,12n,49p,835b,1297s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf (4 pages, 262321 bytes).
+Output written on c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf (4 pages, 262318 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
