@@ -59,6 +59,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
@@ -1124,6 +1168,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
@@ -2148,6 +2236,1115 @@
       \true{nocite}
     \endentry
   \enddatalist
+  \datalist[entry]{ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global}
+    \entry{Jenks2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{04223ae68249ab9f7cc331689e76a409}
+      \strng{fullhash}{04223ae68249ab9f7cc331689e76a409}
+      \strng{bibnamehash}{04223ae68249ab9f7cc331689e76a409}
+      \strng{authorbibnamehash}{04223ae68249ab9f7cc331689e76a409}
+      \strng{authornamehash}{04223ae68249ab9f7cc331689e76a409}
+      \strng{authorfullhash}{04223ae68249ab9f7cc331689e76a409}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
+      \field{title}{Optimal design-for-control of self-cleaning water distribution networks using a convex multi-start algorithm}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{119602}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2023.119602
+      \endverb
+    \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Pecci2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{fullhash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{bibnamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authorbibnamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authornamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authorfullhash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers and Operations Research}
+      \field{title}{Bounds and convex heuristics for bi-objective optimal experiment design in water networks}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.cor.2023.106181
+      \endverb
+    \endentry
+    \entry{pecci2022CVX}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{fullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{bibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorbibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authornamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorfullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{number}{2}
+      \field{title}{{Convex Heuristics for Optimal Placement and Operation of Valves and Chlorine Boosters in Water Networks}}
+      \field{volume}{148}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1061/(ASCE)WR.1943-5452.0001509
+      \endverb
+    \endentry
+    \entry{pecciECC22}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{fullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{bibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorbibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authornamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorfullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 European Control Conference (ECC)}
+      \field{title}{Optimal Design-for-Control of Chlorine Booster Systems in Water Networks via Convex Optimization}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1988\bibrangedash 1993}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/ECC55457.2022.9838063
+      \endverb
+    \endentry
+    \entry{Ulusoy2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=f17427baacbe7f01dfbb8368ebb4d342}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e3c969656ad587078afd93bc2b45984a}{%
+           family={Keedwell},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{fullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{bibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authorbibnamehash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \strng{authornamehash}{d2466b4a1237a3bd35e77ab58b7be063}
+      \strng{authorfullhash}{aa09a7224d4de56e7e49cf4abf6226ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Bi-objective design-for-control for improving the pressure management and resilience of water distribution networks}
+      \field{volume}{222}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118914}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118914
+      \endverb
+    \endentry
+    \entry{waldron2022}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{fullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{bibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authorbibnamehash}{f594bea51e64ed4f7552696ab4e294a5}
+      \strng{authornamehash}{c599bef7f3784aa9d029f62fc4fd480a}
+      \strng{authorfullhash}{f594bea51e64ed4f7552696ab4e294a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{title}{Principal Component Based Sampling for the Continuous Maintenance of Hydraulic Models}
+      \field{volume}{222}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{118905}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.watres.2022.118905
+      \endverb
+    \endentry
+    \entry{Blocher2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1069249091eb42c9b1701c4becd784b2}{%
+           family={Blocher},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{42522a3f638bb668138e87d17337503a}
+      \strng{fullhash}{42522a3f638bb668138e87d17337503a}
+      \strng{bibnamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authorbibnamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authornamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authorfullhash}{42522a3f638bb668138e87d17337503a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources and Management}
+      \field{title}{Prior Assumptions for Leak Localisation in Water Distribution Networks with Uncertainties}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s11269-021-02988-z
+      \endverb
+    \endentry
+    \entry{Pecci2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{fullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{bibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorbibnamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authornamehash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \strng{authorfullhash}{f319fca90ab01f1b9e3017b61e69f0f9}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{2}
+      \field{title}{Relax-tighten-round algorithm for optimal placement and control of valves and chlorine boosters in water networks}
+      \field{volume}{295}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{690\bibrangedash 698}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2021.03.004
+      \endverb
+    \endentry
+    \entry{Ulusoy2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{fullhash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{bibnamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authorbibnamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authornamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authorfullhash}{120c92174009a9d4c4b839b4169a4b77}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optimization and Engineering}
+      \field{note}{Published online}
+      \field{title}{Bi-objective design-for-control of water distribution networks with global bounds}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s11081-021-09598-z
+      \endverb
+    \endentry
+    \entry{Waldron2021Disc}{review}{}
+      \name{author}{3}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6821b63161737af888657f4a46f0049}
+      \strng{fullhash}{e6821b63161737af888657f4a46f0049}
+      \strng{bibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorbibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authornamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorfullhash}{e6821b63161737af888657f4a46f0049}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{number}{12}
+      \field{title}{Closure to ``Regularization of an Inverse Problem for Parameter Estimation in Water Distribution Systems" by Alexander Waldron, Filippo Pecci, and Ivan Stoianov}
+      \field{volume}{147}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1061/(ASCE)WR.1943-5452.0001490
+      \endverb
+    \endentry
+    \entry{waldron2021patent}{patent}{}
+      \name{author}{3}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6821b63161737af888657f4a46f0049}
+      \strng{fullhash}{e6821b63161737af888657f4a46f0049}
+      \strng{bibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorbibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authornamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorfullhash}{e6821b63161737af888657f4a46f0049}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Filed. GB application number 2112111.6}
+      \field{title}{Online maintenance of hydraulic models for WSN through continuous monitoring and adaptive control}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Blocher2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1069249091eb42c9b1701c4becd784b2}{%
+           family={Blocher},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{42522a3f638bb668138e87d17337503a}
+      \strng{fullhash}{42522a3f638bb668138e87d17337503a}
+      \strng{bibnamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authorbibnamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authornamehash}{42522a3f638bb668138e87d17337503a}
+      \strng{authorfullhash}{42522a3f638bb668138e87d17337503a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydraulic Engineering}
+      \field{number}{4}
+      \field{title}{Localizing Leakage Hotspots in Water Distribution Networks via the Regularization of an Inverse Problem}
+      \field{volume}{146}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1061/(ASCE)HY.1943-7900.0001721
+      \endverb
+    \endentry
+    \entry{Nerantzis2020345}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c0058131687c8e3e71402d2700ba86b7}{%
+           family={Nerantzis},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{250972dae72f97ad2587f6d5d779499e}
+      \strng{fullhash}{250972dae72f97ad2587f6d5d779499e}
+      \strng{bibnamehash}{250972dae72f97ad2587f6d5d779499e}
+      \strng{authorbibnamehash}{250972dae72f97ad2587f6d5d779499e}
+      \strng{authornamehash}{250972dae72f97ad2587f6d5d779499e}
+      \strng{authorfullhash}{250972dae72f97ad2587f6d5d779499e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{Optimal control of water distribution networks without storage}
+      \field{volume}{284}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{345\bibrangedash 354}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2019.12.011
+      \endverb
+    \endentry
+    \entry{Pecci2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=66c3a02cea1a12a0e8a93cdcdca0ba31}{%
+           family={Parpas},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \strng{fullhash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \strng{bibnamehash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \strng{authorbibnamehash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \strng{authornamehash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \strng{authorfullhash}{33a5c7ecae314f6c7066d5c00c6452b1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{number}{8}
+      \field{title}{Sequential Convex Optimization for Detecting and Locating Blockages in Water Distribution Networks}
+      \field{volume}{146}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1061/(ASCE)WR.1943-5452.0001233
+      \endverb
+    \endentry
+    \entry{Ulusoy20204579}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{fullhash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{bibnamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authorbibnamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authornamehash}{120c92174009a9d4c4b839b4169a4b77}
+      \strng{authorfullhash}{120c92174009a9d4c4b839b4169a4b77}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Systems Journal}
+      \field{number}{3}
+      \field{title}{An MINLP-Based Approach for the Design-for-Control of Resilient Water Supply Systems}
+      \field{volume}{14}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{4579\bibrangedash 4590}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/JSYST.2019.2961104
+      \endverb
+    \endentry
+    \entry{Waldron2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6c35be92dabb1a325ec44239261c8671}{%
+           family={Waldron},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6821b63161737af888657f4a46f0049}
+      \strng{fullhash}{e6821b63161737af888657f4a46f0049}
+      \strng{bibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorbibnamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authornamehash}{e6821b63161737af888657f4a46f0049}
+      \strng{authorfullhash}{e6821b63161737af888657f4a46f0049}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{number}{9}
+      \field{title}{Regularization of an Inverse Problem for Parameter Estimation in Water Distribution Networks}
+      \field{volume}{146}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1061/(ASCE)WR.1943-5452.0001273
+      \endverb
+    \endentry
+    \entry{Pecci2019457}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optimization and Engineering}
+      \field{number}{2}
+      \field{title}{Global optimality bounds for the placement of control valves in water supply networks}
+      \field{volume}{20}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{457\bibrangedash 495}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1007/s11081-018-9412-7
+      \endverb
+    \endentry
+    \entry{Pecci2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{number}{5}
+      \field{title}{Model Reduction and Outer Approximation for Optimizing the Placement of Control Valves in Complex Water Networks}
+      \field{volume}{145}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1061/(ASCE)WR.1943-5452.0001055
+      \endverb
+    \endentry
+    \entry{pecci2018optimal}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c17de5f126ab497df9b71a948f43e26e}
+      \strng{fullhash}{c17de5f126ab497df9b71a948f43e26e}
+      \strng{bibnamehash}{c17de5f126ab497df9b71a948f43e26e}
+      \strng{authorbibnamehash}{c17de5f126ab497df9b71a948f43e26e}
+      \strng{authornamehash}{c17de5f126ab497df9b71a948f43e26e}
+      \strng{authorfullhash}{c17de5f126ab497df9b71a948f43e26e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{PhD Thesis. Imperial College London}
+      \field{title}{Optimal design for control of water supply networks by mixed integer programming}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{Pecci20175373}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IFAC-PapersOnLine}
+      \field{number}{1}
+      \field{title}{Outer approximation methods for the solution of co-design optimisation problems in water distribution networks}
+      \field{volume}{50}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{5373\bibrangedash 5379}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.ifacol.2017.08.1069
+      \endverb
+    \endentry
+    \entry{Pecci2017201}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Optimization and Applications}
+      \field{number}{1}
+      \field{title}{Penalty and relaxation methods for the optimal placement and operation of control valves in water supply networks}
+      \field{volume}{67}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{201\bibrangedash 223}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s10589-016-9888-z
+      \endverb
+    \endentry
+    \entry{Pecci2017493}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydroinformatics}
+      \field{number}{4}
+      \field{title}{Quadratic head loss approximations for optimisation problems in water supply networks}
+      \field{volume}{19}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{493\bibrangedash 506}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.2166/hydro.2017.080
+      \endverb
+    \endentry
+    \entry{Pecci2017857}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural and Multidisciplinary Optimization}
+      \field{number}{3}
+      \field{title}{Scalable Pareto set generation for multiobjective co-design problems in water distribution networks: a continuous relaxation approach}
+      \field{volume}{55}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{857\bibrangedash 869}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00158-016-1537-8
+      \endverb
+    \endentry
+    \entry{Pecci2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Figshare}%
+      }
+      \strng{namehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{fullhash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{bibnamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authorbibnamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authornamehash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \strng{authorfullhash}{3073c1c2df14b9cb50ecea065cae23ea}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{CCWI 2017 - 15th International Conference on Computing and Control for the Water Industry.}
+      \field{title}{Optimising valve placement and pressure control for multi-feed sectors in water supply networks using outer approximation}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.15131/shef.data.5364196.v1
+      \endverb
+    \endentry
+    \entry{Pecci2015937}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{fullhash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{bibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorbibnamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authornamehash}{3f90b07329d19c802cd77b68340ee476}
+      \strng{authorfullhash}{3f90b07329d19c802cd77b68340ee476}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Computing and Control for the Water Industry (CCWI2015).}
+      \field{booktitle}{Procedia Engineering}
+      \field{number}{1}
+      \field{title}{Mathematical programming methods for pressure management in water distribution systems}
+      \field{volume}{119}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{937\bibrangedash 946}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.proeng.2015.08.974
+      \endverb
+    \endentry
+    \entry{stoianov2015management}{patent}{}
+      \name{author}{3}{}{%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9b084f55f541eb911503bcf33044a43d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \strng{fullhash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \strng{bibnamehash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \strng{authorbibnamehash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \strng{authornamehash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \strng{authorfullhash}{350d57c48421b846d9ca1c8e0e9e7aff}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Granted. PCT/GB2016/054026. GB2545899B (2018), US11078650B2 (2021), EP3394697B1 (2021)}
+      \field{title}{Management of liquid conduit systems}
+      \field{year}{2015}
+      \true{nocite}
+    \endentry
+    \entry{lovison2014hierarchical}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=1e172aa115a97558a2f14e48c5ff0187}{%
+           family={Lovison},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8dc4676e721e0b7e812a569b541a78a}
+      \strng{fullhash}{d8dc4676e721e0b7e812a569b541a78a}
+      \strng{bibnamehash}{d8dc4676e721e0b7e812a569b541a78a}
+      \strng{authorbibnamehash}{d8dc4676e721e0b7e812a569b541a78a}
+      \strng{authornamehash}{d8dc4676e721e0b7e812a569b541a78a}
+      \strng{authorfullhash}{d8dc4676e721e0b7e812a569b541a78a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{MSc Dissertation}
+      \field{note}{arXiv:1407.1755}
+      \field{title}{Hierarchical stratification of Pareto sets}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+  \enddatalist
   \datalist[entry]{ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global}
     \entry{Jenks2023}{article}{}
       \name{author}{3}{}{%
@@ -2188,6 +3385,50 @@
       \verb{doi}
       \verb 10.1016/j.watres.2023.119602
       \endverb
+    \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%
@@ -3254,6 +4495,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{R}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
@@ -4319,6 +5604,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%
         {{hash=c17de5f126ab497df9b71a948f43e26e}{%
@@ -5382,6 +6711,49 @@
       \verb{doi}
       \verb 10.1016/j.watres.2023.119602
       \endverb
+    \endentry
+    \entry{Jacobson2023}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0b231fa7d8aeac8058804af7f6ff3e7d}{%
+           family={Sepulveda},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=67944c9cfdb53c5189d4fa82fb37af2e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{fullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{bibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authorbibnamehash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
+      \strng{authorfullhash}{ee2fe0f83104f3b7c63cf3cc1ccff287}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{arXiv preprint : \url{https://doi.org/10.48550/arXiv.2302.10037}}
+      \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{Pecci2023}{article}{}
       \name{author}{2}{}{%

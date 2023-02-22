@@ -1,37 +1,41 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'resume.blg'
-[62] biber-MSWIN32:322> INFO - === 
-[77] Biber.pm:415> INFO - Reading 'resume.bcf'
-[169] Biber.pm:940> INFO - Using all citekeys in bib section 0
-[214] Biber.pm:4256> INFO - Processing section 0
-[215] Utils.pm:75> INFO - Globbing data source 'publications.bib'
-[222] Utils.pm:91> INFO - Globbed data source 'publications.bib' to publications.bib
-[233] Biber.pm:4455> INFO - Looking for bibtex format file 'publications.bib' for section 0
-[244] bibtex.pm:1653> INFO - LaTeX decoding ...
-[301] bibtex.pm:1471> INFO - Found BibTeX data source 'publications.bib'
-[483] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[483] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[483] Biber.pm:4084> INFO - Sorting list 'ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[483] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[537] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[537] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[538] Biber.pm:4084> INFO - Sorting list 'ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[538] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[578] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[578] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[578] Biber.pm:4084> INFO - Sorting list 'ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[578] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[619] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[619] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[619] Biber.pm:4084> INFO - Sorting list 'ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[619] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[659] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[660] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[660] Biber.pm:4084> INFO - Sorting list 'ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[660] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[700] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[700] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[700] Biber.pm:4084> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[700] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[725] bbl.pm:652> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
-[814] bbl.pm:755> INFO - Output to resume.bbl
+[112] biber-MSWIN32:322> INFO - === 
+[138] Biber.pm:415> INFO - Reading 'resume.bcf'
+[315] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[391] Biber.pm:4256> INFO - Processing section 0
+[391] Utils.pm:75> INFO - Globbing data source 'publications.bib'
+[407] Utils.pm:91> INFO - Globbed data source 'publications.bib' to publications.bib
+[428] Biber.pm:4455> INFO - Looking for bibtex format file 'publications.bib' for section 0
+[447] bibtex.pm:1653> INFO - LaTeX decoding ...
+[546] bibtex.pm:1471> INFO - Found BibTeX data source 'publications.bib'
+[856] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[856] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[856] Biber.pm:4084> INFO - Sorting list 'ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[856] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[923] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[924] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[924] Biber.pm:4084> INFO - Sorting list 'ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[924] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[989] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[989] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[989] Biber.pm:4084> INFO - Sorting list 'ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[989] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1051] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1051] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1051] Biber.pm:4084> INFO - Sorting list 'ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1051] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1118] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1119] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1119] Biber.pm:4084> INFO - Sorting list 'ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1119] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1187] Biber.pm:4084> INFO - Sorting list 'ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1187] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1253] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1253] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1253] Biber.pm:4084> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1253] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1296] bbl.pm:652> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
+[1473] bbl.pm:755> INFO - Output to resume.bbl
