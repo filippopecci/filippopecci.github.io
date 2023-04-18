@@ -59,6 +59,49 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
+      \endverb
+    \endentry
     \entry{Jacobson2023}{unpublished}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -1166,6 +1209,49 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.watres.2023.119602
+      \endverb
+    \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
       \endverb
     \endentry
     \entry{Jacobson2023}{unpublished}{}
@@ -2277,6 +2363,49 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{S}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
+      \endverb
+    \endentry
     \entry{Jacobson2023}{unpublished}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -3384,6 +3513,49 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.watres.2023.119602
+      \endverb
+    \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
       \endverb
     \endentry
     \entry{Jacobson2023}{unpublished}{}
@@ -4495,6 +4667,49 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{R}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
+      \endverb
+    \endentry
     \entry{Jacobson2023}{unpublished}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -5604,6 +5819,49 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{A}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
+      \endverb
+    \endentry
     \entry{Jacobson2023}{unpublished}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -6710,6 +6968,48 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.watres.2023.119602
+      \endverb
+    \endentry
+    \entry{JENKS2023b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3ac7ec83304c92610359a406f07ad45a}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c17de5f126ab497df9b71a948f43e26e}{%
+           family={Pecci},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{fullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{bibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authorbibnamehash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \strng{authornamehash}{2afb3baf5d6c63e873622741e6ec21c4}
+      \strng{authorfullhash}{4030b2296dd16ab92e5811dbdd866ffe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-5788}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{title}{Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.arcontrol.2023.03.014
       \endverb
     \endentry
     \entry{Jacobson2023}{unpublished}{}

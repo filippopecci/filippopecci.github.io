@@ -5,12 +5,20 @@
     <link>https://filippopecci.github.io/</link>
       <atom:link href="https://filippopecci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Filippo Pecci</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>Filippo Pecci</title>
       <link>https://filippopecci.github.io/</link>
     </image>
+    
+    <item>
+      <title>Dynamically adaptive networks for integrating optimal pressure management and self-cleaning controls</title>
+      <link>https://filippopecci.github.io/publication/jenks-2023-b/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jenks-2023-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints</title>
