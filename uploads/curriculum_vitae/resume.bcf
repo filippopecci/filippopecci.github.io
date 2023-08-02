@@ -2182,7 +2182,16 @@
     <bcf:datasource type="file" datatype="bibtex">publications.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 1 -->
+  <bcf:bibdata section="1">
+    <bcf:datasource type="file" datatype="bibtex">publications.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="1">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ydnt">
@@ -2211,7 +2220,16 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
+  <bcf:datalist section="1"
+                name="ydnt/global/44C29EDB103A2872F519AD0C9A0FDAAA/global/global"
+                type="entry"
+                sortingtemplatename="ydnt"
+                sortingnamekeytemplatename="global"
+                labelprefix="P"
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="1"
                 name="ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global"
                 type="entry"
                 sortingtemplatename="ydnt"
@@ -2220,7 +2238,7 @@
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
-  <bcf:datalist section="0"
+  <bcf:datalist section="1"
                 name="ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global"
                 type="entry"
                 sortingtemplatename="ydnt"
@@ -2229,39 +2247,12 @@
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
-  <bcf:datalist section="0"
-                name="ydnt/global/5DBC98DCC983A70728BD082D1A47546E/global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix="S"
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="0"
+  <bcf:datalist section="1"
                 name="ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global"
                 type="entry"
                 sortingtemplatename="ydnt"
                 sortingnamekeytemplatename="global"
                 labelprefix="B"
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="0"
-                name="ydnt/global/E1E1D3D40573127E9EE0480CAF1283D6/global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix="R"
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="0"
-                name="ydnt/global/7FC56270E7A70FA81A5935B72EACBE29/global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix="A"
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
