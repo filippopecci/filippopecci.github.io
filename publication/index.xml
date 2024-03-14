@@ -5,7 +5,7 @@
     <link>https://filippopecci.github.io/publication/</link>
       <atom:link href="https://filippopecci.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Regularized Benders Decomposition for High Performance Capacity Expansion Models</title>
+      <link>https://filippopecci.github.io/publication/pecci-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints</title>
-      <link>https://filippopecci.github.io/publication/jacobson-2023/</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://filippopecci.github.io/publication/jacobson-2023/</guid>
+      <link>https://filippopecci.github.io/publication/jacobson-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jacobson-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed nonconvex optimization for control of water networks with time-coupling constraints</title>
+      <link>https://filippopecci.github.io/publication/jenks-2023-c/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jenks-2023-c/</guid>
       <description></description>
     </item>
     

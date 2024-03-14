@@ -219,7 +219,6 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -235,6 +234,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/yhmath/yhcmex10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -247,10 +247,10 @@ INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux
 INPUT c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.out
 INPUT c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.out

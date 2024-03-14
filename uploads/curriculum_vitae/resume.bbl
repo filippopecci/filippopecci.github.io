@@ -19,53 +19,6 @@
 
 \refsection{1}
   \datalist[entry]{ydnt/global/44C29EDB103A2872F519AD0C9A0FDAAA/global/global}
-    \entry{Tomer2023}{unpublished}{}
-      \name{author}{6}{}{%
-        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
-           family={Shmaya},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
-           family={Housh},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
-           family={\textbf{Pecci,\bibnamedelimb F.}},
-           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
-           family={Baker},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9d268346d0eebecd671122760ffe719e}{%
-           family={Kasprzyk},
-           familyi={K\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cafcbee3bcd2e920739595011802342}{%
-           family={Ostfeld},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
-      \field{labelprefix}{P}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{note}{Water Resources Research (revise and resubmit). [Manuscript available upon request]}
-      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
-      \true{nocite}
-    \endentry
     \entry{Jacobson2023}{article}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -86,30 +39,67 @@
            familyi={X\bibinitperiod},
            given={Q.},
            giveni={Q\bibinitperiod}}}%
-        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
            family={Jenkins},
            familyi={J\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{fullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{bibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{authorbibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{fullhash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{bibnamehash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{authorbibnamehash}{c872852ccac337d18c7a9b334cb55348}
       \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{authorfullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{authorfullhash}{c872852ccac337d18c7a9b334cb55348}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{P}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In press. [\href{https://doi.org/10.48550/arXiv.2302.10037}{preprint}]}
       \field{journaltitle}{INFORMS Journal on Optimization}
+      \field{number}{1}
       \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
-      \field{year}{2023}
+      \field{volume}{6}
+      \field{year}{2024}
       \true{nocite}
+      \field{pages}{32\bibrangedash 45}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1287/ijoo.2023.0005
+      \endverb
+    \endentry
+    \entry{pecci_regularized_2024}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{fullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{bibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorbibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authornamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorfullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{P}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transaction on Power Systems}
+      \field{note}{arXiv:2403.02559 [math]. Submitted to IEEE Transaction on Power Systems (under review)}
+      \field{title}{Regularized {Benders} {Decomposition} for {High} {Performance} {Capacity} {Expansion} {Models}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2403.02559
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2403.02559
       \endverb
     \endentry
     \entry{Jenks2023}{article}{}
@@ -150,6 +140,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{jenks_2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{fullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{bibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{P}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2311.05180 [math.OC]. Submitted to Water Resources Management (under review).}
+      \field{title}{Distributed nonconvex optimization for control of water networks with time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+    \endentry
     \entry{Jenks2023b}{article}{}
       \name{author}{4}{}{%
         {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
@@ -177,6 +211,7 @@
       \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
       \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
       \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{P}
@@ -221,6 +256,54 @@
       \verb{doi}
       \verb 10.1016/j.cor.2023.106181
       \endverb
+    \endentry
+    \entry{Tomer2023}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
+           family={Shmaya},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
+           family={Housh},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9d268346d0eebecd671122760ffe719e}{%
+           family={Kasprzyk},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{P}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{note}{Applied Energy (under review). [Manuscript available upon request]}
+      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{pecci2022CVX}{article}{}
       \name{author}{3}{}{%
@@ -1164,53 +1247,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/FF44570ACA8241914870AFBC310CDB85/global/global}
-    \entry{Tomer2023}{unpublished}{}
-      \name{author}{6}{}{%
-        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
-           family={Shmaya},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
-           family={Housh},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
-           family={\textbf{Pecci,\bibnamedelimb F.}},
-           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
-           family={Baker},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9d268346d0eebecd671122760ffe719e}{%
-           family={Kasprzyk},
-           familyi={K\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cafcbee3bcd2e920739595011802342}{%
-           family={Ostfeld},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
-      \field{labelprefix}{J}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{note}{Water Resources Research (revise and resubmit). [Manuscript available upon request]}
-      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
-      \true{nocite}
-    \endentry
     \entry{Jacobson2023}{article}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -1231,30 +1267,67 @@
            familyi={X\bibinitperiod},
            given={Q.},
            giveni={Q\bibinitperiod}}}%
-        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
            family={Jenkins},
            familyi={J\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{fullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{bibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{authorbibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{fullhash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{bibnamehash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{authorbibnamehash}{c872852ccac337d18c7a9b334cb55348}
       \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{authorfullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{authorfullhash}{c872852ccac337d18c7a9b334cb55348}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{J}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In press. [\href{https://doi.org/10.48550/arXiv.2302.10037}{preprint}]}
       \field{journaltitle}{INFORMS Journal on Optimization}
+      \field{number}{1}
       \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
-      \field{year}{2023}
+      \field{volume}{6}
+      \field{year}{2024}
       \true{nocite}
+      \field{pages}{32\bibrangedash 45}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1287/ijoo.2023.0005
+      \endverb
+    \endentry
+    \entry{pecci_regularized_2024}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{fullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{bibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorbibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authornamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorfullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transaction on Power Systems}
+      \field{note}{arXiv:2403.02559 [math]. Submitted to IEEE Transaction on Power Systems (under review)}
+      \field{title}{Regularized {Benders} {Decomposition} for {High} {Performance} {Capacity} {Expansion} {Models}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2403.02559
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2403.02559
       \endverb
     \endentry
     \entry{Jenks2023}{article}{}
@@ -1295,6 +1368,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{jenks_2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{fullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{bibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2311.05180 [math.OC]. Submitted to Water Resources Management (under review).}
+      \field{title}{Distributed nonconvex optimization for control of water networks with time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+    \endentry
     \entry{Jenks2023b}{article}{}
       \name{author}{4}{}{%
         {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
@@ -1322,6 +1439,7 @@
       \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
       \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
       \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{J}
@@ -1366,6 +1484,54 @@
       \verb{doi}
       \verb 10.1016/j.cor.2023.106181
       \endverb
+    \endentry
+    \entry{Tomer2023}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
+           family={Shmaya},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
+           family={Housh},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9d268346d0eebecd671122760ffe719e}{%
+           family={Kasprzyk},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{J}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{note}{Applied Energy (under review). [Manuscript available upon request]}
+      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{pecci2022CVX}{article}{}
       \name{author}{3}{}{%
@@ -2309,53 +2475,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/0D61F8370CAD1D412F80B84D143E1257/global/global}
-    \entry{Tomer2023}{unpublished}{}
-      \name{author}{6}{}{%
-        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
-           family={Shmaya},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
-           family={Housh},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
-           family={\textbf{Pecci,\bibnamedelimb F.}},
-           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
-           family={Baker},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9d268346d0eebecd671122760ffe719e}{%
-           family={Kasprzyk},
-           familyi={K\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cafcbee3bcd2e920739595011802342}{%
-           family={Ostfeld},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
-      \field{labelprefix}{C}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{note}{Water Resources Research (revise and resubmit). [Manuscript available upon request]}
-      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
-      \true{nocite}
-    \endentry
     \entry{Jacobson2023}{article}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -2376,30 +2495,67 @@
            familyi={X\bibinitperiod},
            given={Q.},
            giveni={Q\bibinitperiod}}}%
-        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
            family={Jenkins},
            familyi={J\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{fullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{bibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{authorbibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{fullhash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{bibnamehash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{authorbibnamehash}{c872852ccac337d18c7a9b334cb55348}
       \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{authorfullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{authorfullhash}{c872852ccac337d18c7a9b334cb55348}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{C}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In press. [\href{https://doi.org/10.48550/arXiv.2302.10037}{preprint}]}
       \field{journaltitle}{INFORMS Journal on Optimization}
+      \field{number}{1}
       \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
-      \field{year}{2023}
+      \field{volume}{6}
+      \field{year}{2024}
       \true{nocite}
+      \field{pages}{32\bibrangedash 45}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1287/ijoo.2023.0005
+      \endverb
+    \endentry
+    \entry{pecci_regularized_2024}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{fullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{bibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorbibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authornamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorfullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transaction on Power Systems}
+      \field{note}{arXiv:2403.02559 [math]. Submitted to IEEE Transaction on Power Systems (under review)}
+      \field{title}{Regularized {Benders} {Decomposition} for {High} {Performance} {Capacity} {Expansion} {Models}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2403.02559
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2403.02559
       \endverb
     \endentry
     \entry{Jenks2023}{article}{}
@@ -2440,6 +2596,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{jenks_2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{fullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{bibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2311.05180 [math.OC]. Submitted to Water Resources Management (under review).}
+      \field{title}{Distributed nonconvex optimization for control of water networks with time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+    \endentry
     \entry{Jenks2023b}{article}{}
       \name{author}{4}{}{%
         {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
@@ -2467,6 +2667,7 @@
       \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
       \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
       \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{C}
@@ -2511,6 +2712,54 @@
       \verb{doi}
       \verb 10.1016/j.cor.2023.106181
       \endverb
+    \endentry
+    \entry{Tomer2023}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
+           family={Shmaya},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
+           family={Housh},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9d268346d0eebecd671122760ffe719e}{%
+           family={Kasprzyk},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{C}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{note}{Applied Energy (under review). [Manuscript available upon request]}
+      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{pecci2022CVX}{article}{}
       \name{author}{3}{}{%
@@ -3454,53 +3703,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global/9D5ED678FE57BCCA610140957AFAB571/global/global}
-    \entry{Tomer2023}{unpublished}{}
-      \name{author}{6}{}{%
-        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
-           family={Shmaya},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
-           family={Housh},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
-           family={\textbf{Pecci,\bibnamedelimb F.}},
-           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
-           family={Baker},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9d268346d0eebecd671122760ffe719e}{%
-           family={Kasprzyk},
-           familyi={K\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cafcbee3bcd2e920739595011802342}{%
-           family={Ostfeld},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
-      \field{labelprefix}{B}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{note}{Water Resources Research (revise and resubmit). [Manuscript available upon request]}
-      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
-      \true{nocite}
-    \endentry
     \entry{Jacobson2023}{article}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -3521,30 +3723,67 @@
            familyi={X\bibinitperiod},
            given={Q.},
            giveni={Q\bibinitperiod}}}%
-        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
            family={Jenkins},
            familyi={J\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{fullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{bibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{authorbibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{fullhash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{bibnamehash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{authorbibnamehash}{c872852ccac337d18c7a9b334cb55348}
       \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{authorfullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{authorfullhash}{c872852ccac337d18c7a9b334cb55348}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{B}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In press. [\href{https://doi.org/10.48550/arXiv.2302.10037}{preprint}]}
       \field{journaltitle}{INFORMS Journal on Optimization}
+      \field{number}{1}
       \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
-      \field{year}{2023}
+      \field{volume}{6}
+      \field{year}{2024}
       \true{nocite}
+      \field{pages}{32\bibrangedash 45}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1287/ijoo.2023.0005
+      \endverb
+    \endentry
+    \entry{pecci_regularized_2024}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{fullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{bibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorbibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authornamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorfullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transaction on Power Systems}
+      \field{note}{arXiv:2403.02559 [math]. Submitted to IEEE Transaction on Power Systems (under review)}
+      \field{title}{Regularized {Benders} {Decomposition} for {High} {Performance} {Capacity} {Expansion} {Models}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2403.02559
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2403.02559
       \endverb
     \endentry
     \entry{Jenks2023}{article}{}
@@ -3585,6 +3824,50 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{jenks_2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{fullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{bibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2311.05180 [math.OC]. Submitted to Water Resources Management (under review).}
+      \field{title}{Distributed nonconvex optimization for control of water networks with time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+    \endentry
     \entry{Jenks2023b}{article}{}
       \name{author}{4}{}{%
         {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
@@ -3612,6 +3895,7 @@
       \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
       \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
       \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelprefix}{B}
@@ -3656,6 +3940,54 @@
       \verb{doi}
       \verb 10.1016/j.cor.2023.106181
       \endverb
+    \endentry
+    \entry{Tomer2023}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
+           family={Shmaya},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
+           family={Housh},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9d268346d0eebecd671122760ffe719e}{%
+           family={Kasprzyk},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelprefix}{B}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{note}{Applied Energy (under review). [Manuscript available upon request]}
+      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{pecci2022CVX}{article}{}
       \name{author}{3}{}{%
@@ -4599,52 +4931,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{ydnt/global//global/global}
-    \entry{Tomer2023}{unpublished}{}
-      \name{author}{6}{}{%
-        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
-           family={Shmaya},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
-           family={Housh},
-           familyi={H\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
-           family={\textbf{Pecci,\bibnamedelimb F.}},
-           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
-           family={Baker},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9d268346d0eebecd671122760ffe719e}{%
-           family={Kasprzyk},
-           familyi={K\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cafcbee3bcd2e920739595011802342}{%
-           family={Ostfeld},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
-      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{note}{Water Resources Research (revise and resubmit). [Manuscript available upon request]}
-      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
-      \true{nocite}
-    \endentry
     \entry{Jacobson2023}{article}{}
       \name{author}{5}{}{%
         {{hash=e70eb57a15dcb6d6ebe6dc1079457e1e}{%
@@ -4665,29 +4951,65 @@
            familyi={X\bibinitperiod},
            given={Q.},
            giveni={Q\bibinitperiod}}}%
-        {{hash=61c78b3e00341be19c06432d775f76d3}{%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
            family={Jenkins},
            familyi={J\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{fullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{bibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
-      \strng{authorbibnamehash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{fullhash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{bibnamehash}{c872852ccac337d18c7a9b334cb55348}
+      \strng{authorbibnamehash}{c872852ccac337d18c7a9b334cb55348}
       \strng{authornamehash}{fb95e400bf19cbe86900589ec9e8071a}
-      \strng{authorfullhash}{a8cb14e3b1ef1efab3f159e704a3441b}
+      \strng{authorfullhash}{c872852ccac337d18c7a9b334cb55348}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{In press. [\href{https://doi.org/10.48550/arXiv.2302.10037}{preprint}]}
       \field{journaltitle}{INFORMS Journal on Optimization}
+      \field{number}{1}
       \field{title}{A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints}
-      \field{year}{2023}
+      \field{volume}{6}
+      \field{year}{2024}
       \true{nocite}
+      \field{pages}{32\bibrangedash 45}
+      \range{pages}{14}
       \verb{doi}
       \verb 10.1287/ijoo.2023.0005
+      \endverb
+    \endentry
+    \entry{pecci_regularized_2024}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ec96eaad4d9e711630304535e18ac0e0}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{fullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{bibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorbibnamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authornamehash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \strng{authorfullhash}{edf92a584f9161de0c1a5f9e3c2f06e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transaction on Power Systems}
+      \field{note}{arXiv:2403.02559 [math]. Submitted to IEEE Transaction on Power Systems (under review)}
+      \field{title}{Regularized {Benders} {Decomposition} for {High} {Performance} {Capacity} {Expansion} {Models}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2403.02559
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2403.02559
       \endverb
     \endentry
     \entry{Jenks2023}{article}{}
@@ -4727,6 +5049,49 @@
       \verb 10.1016/j.watres.2023.119602
       \endverb
     \endentry
+    \entry{jenks_2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e178018c3a07dc0fca3d93b9d81f74}{%
+           family={Ulusoy},
+           familyi={U\bibinitperiod},
+           given={A.-J.},
+           giveni={A\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0efe28b01c92d805545c2b0f4d47c83e}{%
+           family={Stoianov},
+           familyi={S\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{fullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{bibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
+      \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2311.05180 [math.OC]. Submitted to Water Resources Management (under review).}
+      \field{title}{Distributed nonconvex optimization for control of water networks with time-coupling constraints}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2311.05180
+      \endverb
+    \endentry
     \entry{Jenks2023b}{article}{}
       \name{author}{4}{}{%
         {{hash=386613b165e68d7bdcf55c0e4f864b89}{%
@@ -4754,6 +5119,7 @@
       \strng{authorbibnamehash}{d120c2349e8a8d784cbe1fc48d1848fc}
       \strng{authornamehash}{30126606fcf04bd9f05c52a1fe3bc390}
       \strng{authorfullhash}{d120c2349e8a8d784cbe1fc48d1848fc}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
@@ -4796,6 +5162,53 @@
       \verb{doi}
       \verb 10.1016/j.cor.2023.106181
       \endverb
+    \endentry
+    \entry{Tomer2023}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=84e2a1d3b8ac97171a42f745b81f66d0}{%
+           family={Shmaya},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=54bd235085fe1ce80622a97e8852eef0}{%
+           family={Housh},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c293f55f2945905bd75e154caa2c0f31}{%
+           family={\textbf{Pecci,\bibnamedelimb F.}},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e9a837e7737bbe18829a9db1c6072a5b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9d268346d0eebecd671122760ffe719e}{%
+           family={Kasprzyk},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2cafcbee3bcd2e920739595011802342}{%
+           family={Ostfeld},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{fullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{bibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authorbibnamehash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \strng{authornamehash}{b0abb11e3a4790a75100c446e73ac7f8}
+      \strng{authorfullhash}{e7b5a0a676201241fdb75c1ec2192de3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Energy}
+      \field{note}{Applied Energy (under review). [Manuscript available upon request]}
+      \field{title}{Conjunctive Optimal Operation of Water and Power Networks}
+      \field{year}{2023}
+      \true{nocite}
     \endentry
     \entry{pecci2022CVX}{article}{}
       \name{author}{3}{}{%

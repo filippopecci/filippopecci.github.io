@@ -5,7 +5,7 @@
     <link>https://filippopecci.github.io/</link>
       <atom:link href="https://filippopecci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Filippo Pecci</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://filippopecci.github.io/media/icon_hud29b06eb3f4a9a97e3d8b7a32e40026a_85814_512x512_fill_lanczos_center_3.png</url>
       <title>Filippo Pecci</title>
@@ -13,11 +13,50 @@
     </image>
     
     <item>
-      <title>A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints</title>
-      <link>https://filippopecci.github.io/publication/jacobson-2023/</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://filippopecci.github.io/publication/jacobson-2023/</guid>
+      <title>Regularized Benders Decomposition for High Performance Capacity Expansion Models</title>
+      <link>https://filippopecci.github.io/publication/pecci-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/pecci-2024/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A computationally efficient Benders decomposition for energy systems planning problems with detailed operations and time-coupling constraints</title>
+      <link>https://filippopecci.github.io/publication/jacobson-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jacobson-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed nonconvex optimization for control of water networks with time-coupling constraints</title>
+      <link>https://filippopecci.github.io/publication/jenks-2023-c/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/publication/jenks-2023-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to optimize macro-energy systems.</title>
+      <link>https://filippopecci.github.io/talk/learning-to-optimize-macro-energy-systems./</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://filippopecci.github.io/talk/learning-to-optimize-macro-energy-systems./</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
     </item>
     
     <item>
