@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber resume"] 1710441760 "resume.bcf" "resume.bbl" "resume" 1710441813
+["biber resume"] 1710441760 "resume.bcf" "resume.bbl" "resume" 1711916342
   "publications.bib" 1710441771 11421 92aa0d3ca8a11de8270dc9b5edde5fe4 ""
-  "resume.bcf" 1710441810 103036 92c6bbb5ab01ec2111a6dc60d5e65d0e "pdflatex"
+  "resume.bcf" 1711916342 103036 92c6bbb5ab01ec2111a6dc60d5e65d0e "pdflatex"
   (generated)
-  "resume.bbl"
   "resume.blg"
-["pdflatex"] 1710441809 "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex" "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf" "resume" 1710441813
-  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux" 1710441810 9081 1f0f0964f6ce78b6ef0de2941341fb87 ""
-  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex" 1710441808 21043 d3711b19f43e8686844118d38539b09b ""
+  "resume.bbl"
+["pdflatex"] 1711916340 "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex" "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf" "resume" 1711916342
+  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.aux" 1711916342 9081 1f0f0964f6ce78b6ef0de2941341fb87 ""
+  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.tex" 1711916337 20966 ff70a48a677e5dc114342d610e56ffc6 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1588061342 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1588061634 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1588063794 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -136,18 +136,18 @@
   "c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1588064267 4852750 67cfae5f2b9d7f6f56ba79641f1314e2 ""
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1588064363 2431938 3b63a5c1cfca8c63838d0434d22e4fdb ""
   "c:/texlive/2020/texmf.cnf" 1588064252 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "resume.aux" 1710441810 9081 1f0f0964f6ce78b6ef0de2941341fb87 "pdflatex"
+  "resume.aux" 1711916342 9081 1f0f0964f6ce78b6ef0de2941341fb87 "pdflatex"
   "resume.bbl" 1710441762 261298 55c0b86ae05dc79d10e74d0a84081a21 "biber resume"
-  "resume.out" 1710441810 562 5ffbaa1413045ea3278ffa0904f5cc76 "pdflatex"
-  "resume.run.xml" 1710441810 2321 2a81108a9b38707bc2579cdb1e81163d "pdflatex"
-  "resume.tex" 1710441808 21043 d3711b19f43e8686844118d38539b09b ""
+  "resume.out" 1711916342 562 5ffbaa1413045ea3278ffa0904f5cc76 "pdflatex"
+  "resume.run.xml" 1711916342 2321 2a81108a9b38707bc2579cdb1e81163d "pdflatex"
+  "resume.tex" 1711916337 20966 ff70a48a677e5dc114342d610e56ffc6 ""
   "reversebibnum.tex" 1691003529 2215 708f6064d0c48c33c74a789f9e91dd13 ""
   (generated)
-  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.log"
-  "resume.pdf"
-  "resume.aux"
   "resume.run.xml"
+  "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.log"
+  "resume.aux"
   "resume.out"
-  "resume.bcf"
   "resume.log"
+  "resume.pdf"
+  "resume.bcf"
   "c:/Users/pecci/AcademicWebsite/static/uploads/curriculum_vitae/resume.pdf"
