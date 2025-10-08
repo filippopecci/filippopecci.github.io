@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eiee.org/'> Scientist at the RFF-CMCC European Institute on Economics and the Environment</a>.
+subtitle: <a href='https://www.eiee.org/'> RFF-CMCC European Institute on Economics and the Environment</a>.
 
 profile:
   align: right
