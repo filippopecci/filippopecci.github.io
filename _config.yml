@@ -176,6 +176,10 @@ exclude:
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
+  - _books/
+  - _pages/books.md
+  - _pages/projects.md
+  - _pages/teaching.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
