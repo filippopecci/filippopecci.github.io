@@ -183,6 +183,8 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/dropdown.md
+  - _pages/cv.md
+  - _pages/publications.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Filippo Pecci",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "filippo.pecci@cmcc.it",
+    "research aim": "Develop optimization-based energy systems models with high resolution and computational performance, providing decision support to accelerate transition to net-zero and resilient energy systems.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
