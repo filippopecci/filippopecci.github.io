@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eiee.org/'> Scientist at RFF-CMCC European Institute on Economics and the Environment</a> and <a href='https://www.cmcc.it/'>CMCC Foundation - Euro-Mediterranean Center on Climate Change</a>.
+subtitle: <a href='https://www.eiee.org/'> Scientist at the RFF-CMCC European Institute on Economics and the Environment</a>.
 
 profile:
   align: right
@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a scientist at the RFF-CMCC European Institute on Economics and the Environment (EIEE) in Milan (Italy). My research focuses on developing optimization-based energy systems models with high resolution and computational performance, providing decision support to accelerate transition to net-zero and resilient energy systems. Prior to joining EIEE, I was an associate research scholar at the ZERO Lab at Princeton University, working on computationally efficient methods to optimize planning and operation decisions in macro-energy systems. I earned a PhD from Imperial College London, where I was was also a postdoctoral research associate. At Imperial, my work focused on mixed-integer optimization for the design-for-control of resilient water supply systems.
+I am a scientist at the RFF-CMCC European Institute on Economics and the Environment (EIEE) in Milan (Italy). My research focuses on optimization-based energy systems models with high resolution and computational performance, providing decision support to accelerate transition to net-zero and resilient energy systems.
+
+Prior to joining EIEE, I was an associate research scholar at the [ZERO Lab](https://zero.lab.princeton.edu/) at Princeton University, working on computationally efficient methods to optimize planning and operation decisions in macro-energy systems. I earned a PhD from Imperial College London, where I was also a postdoctoral research associate. At Imperial, my work focused on mixed-integer optimization for the design-for-control of resilient water supply systems.

@@ -182,6 +182,7 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _pages/dropdown.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
