@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "See my [Google Scholar](https://scholar.google.com/citations?user=rEN9RhsAAAAJ&amp;hl=en) profile for an up-to-date list.",
+          description: "See my  Google Scholar profile for an up-to-date list.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Last update January 2025.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
