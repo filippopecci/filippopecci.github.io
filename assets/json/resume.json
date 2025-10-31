@@ -23,22 +23,22 @@
       "name": "RFF-CMCC European Institute on Economics and the Environment, Milan, Italy",
       "position": "Scientist",
       "url": "https://www.eiee.org",
-      "startDate": "2025-01",
+      "startDate": "2025",
       "endDate": "present"
     },
     {
       "name": "Princeton University, NJ, USA",
       "position": "Associate Research Scholar",
       "url": "https://zero.lab.princeton.edu/",
-      "startDate": "2022-10",
-      "endDate": "2024-12"
+      "startDate": "2022",
+      "endDate": "2024"
     },
     {
       "name": "Imperial College London, London, UK",
       "position": "Postdoctoral Research Associate",
       "url": "https://www.imperial.ac.uk/",
-      "startDate": "2018-05",
-      "endDate": "2022-09"
+      "startDate": "2018",
+      "endDate": "2022"
     }
   ],
   "education": [
@@ -48,8 +48,8 @@
       "url": "https://www.imperial.ac.uk/",
       "area": "Optimal design for control of water supply networks by mixed integer programming",
       "studyType": "PhD",
-      "startDate": "2014-10",
-      "endDate": "2018-04"
+      "startDate": "2014",
+      "endDate": "2018"
     },
     {
       "institution": "Università degli Studi di Padova, Padua, Italy",
@@ -57,8 +57,8 @@
       "url": "https://www.unipd.it/",
       "area": "Mathematics",
       "studyType": "MSc",
-      "startDate": "2011-10",
-      "endDate": "2014-02"
+      "startDate": "2011",
+      "endDate": "2014"
     },
     {
       "institution": "Università degli Studi di Padova, Padua, Italy",
@@ -66,8 +66,8 @@
       "url": "https://www.unipd.it/",
       "area": "Mathematics",
       "studyType": "BSc",
-      "startDate": "2008-10",
-      "endDate": "2011-09"
+      "startDate": "2008",
+      "endDate": "2011"
     }
   ],
   "open-source projects": [
